@@ -68,6 +68,3 @@ El RFC 10008 se publicó en octubre de 2025 y estandariza el método HTTP `QUERY
 
 **Recomendación**: úsalo ya en servicios internos donde controlas cliente y servidor. En APIs públicas, mantén siempre un fallback a `GET` o `POST`.
 
-## 📝 Licencia
-
-MIT
